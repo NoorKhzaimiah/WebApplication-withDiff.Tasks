@@ -25,8 +25,7 @@
         <br />
         <br />
         <br />
-        <span class="auto-style2">Welcome </span>
-        <br />
+        <span class="auto-style2">WelcomeTo My App.</span><br />
         <br />
         <br />
     
